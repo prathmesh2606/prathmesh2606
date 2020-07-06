@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning python3 and web development
 
 <!--
 **prathmesh2606/prathmesh2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
