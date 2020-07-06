@@ -1,0 +1,5 @@
+print("Hello World")
+print()
+print("This is first line", end ="$")
+print("This is second line")
+print("That's it!!")
